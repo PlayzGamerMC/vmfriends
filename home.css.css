@@ -1,0 +1,13 @@
+body {
+	background: darkgreen;
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+}
+
+header {
+	color: black;
+	margin: 100;
+}
